@@ -1,7 +1,3 @@
-
-# Hi, I'm topdev0215! 👋
-
-
 # Subway surfers
 
 This is perfect JavaScript project
